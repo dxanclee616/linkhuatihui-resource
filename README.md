@@ -1,2 +1,14 @@
 # linkhuatihui-resource
-HTML page archive and documentation
+
+HTML 资料页存档
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
